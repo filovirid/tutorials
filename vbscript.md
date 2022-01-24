@@ -1,6 +1,6 @@
 # Crash Course on VBScript
 
-_The original document is on my Github for editing_
+_The original document is on my [Github](https://github.com/filovirid/tutorials/blob/main/vbscript.md) for editing_
 
 Lately, I was looking for a syntax of one function in Windows Script Host (WSH) and I realized that it's difficult these days to find a nice tutorial
 about WSH or even VBScript since both of them are kind of dead! (VBS replaced by JavaScript and WSH replaced by Powershell). There are some websites
