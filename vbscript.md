@@ -649,11 +649,11 @@ first and then used but it can also be used without declaration. You can use upp
  fine without using `option explicit`. However, utilizing this term, you will get
  an error (variable is undefined) for this code.
 
- ```basic
+```basic
 option explicit
 name = "John"
 msgbox name
- ```
+```
 
 #### Statement: SET
 
@@ -785,7 +785,7 @@ msgbox time()           ' prints 17:37:30
 msgbox datediff("s", "1970/01/01 00:00:00", now())
 ```
 
-
+I will add more if I feel something is important. Let me know your opinion about this.
 
 
 
